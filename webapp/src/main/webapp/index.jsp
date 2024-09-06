@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Most of the project teams using the CICD.. everyone should practice the CICD Project **** </h1>   
+         <h1> **** This deployment process took 5 hours for me to complete **** </h1>   
 	 
 
     </section>    
