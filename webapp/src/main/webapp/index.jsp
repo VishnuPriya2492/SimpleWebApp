@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** This deployment process took 5 hours for me to complete **** </h1>   
+         <h1> **** CICD process is very important everyone should have hands-on practice </h1>   
 	 
 
     </section>    
