@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** CICD process is very important everyone should have hands-on practice </h1>   
+         <h1> **** CICD process is very important everyone should have hands-on practice **** </h1>   
 	 
 
     </section>    
